@@ -7,6 +7,18 @@
     <language>en</language>
     <!-- release.sh adds each new release directly below this line (newest first). -->
     <item>
+      <title>Invocal 1.39.0 (test build 1342.1795451591)</title>
+      <pubDate>Mon, 23 Nov 2026 18:30:10 +0000</pubDate>
+      <sparkle:version>1342.1795451591</sparkle:version>
+      <sparkle:shortVersionString>1.39.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0.0</sparkle:minimumSystemVersion>
+      <link>https://github.com/michaelzizz/invocal-releases/releases/tag/test-1342.1795451591</link>
+      <description sparkle:format="markdown"><![CDATA[
+Test build 1342.1795451591, used to check automatic updates. Not for use.
+]]></description>
+      <enclosure url="https://github.com/michaelzizz/invocal-releases/releases/download/test-1342.1795451591/Invocal-1.39.0-test-1795451591.dmg" length="28943191" type="application/octet-stream" sparkle:edSignature="pvrSJ3GHEW0WdoAaxEK/3sioPkMRcnZ7QyHKqeFEVMtSU0ijQs27pAJXIBnIozgx1ewjHkj/m6SEPqA/PnDYDA=="/>
+    </item>
+    <item>
       <title>Invocal 1.39.0 (test build 1342.1795421663)</title>
       <pubDate>Mon, 23 Nov 2026 16:32:22 +0000</pubDate>
       <sparkle:version>1342.1795421663</sparkle:version>
